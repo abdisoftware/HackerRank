@@ -9,7 +9,7 @@
 function plusMinus($arr) {
     // Write your code here
    
-//we check that the argument is an array
+//we check that the parameter is an array
    if (is_array($arr)) {
    	     //We count the array indices
 		 $CountTot =  count($arr);
